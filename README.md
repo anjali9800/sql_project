@@ -51,4 +51,7 @@ The aim of this project is to analyze pizza sales data by performing various SQL
 1. Calculate percentage contribution of each pizza type to total revenue  
 2. Analyze cumulative revenue generated over time  
 3. Determine top 3 most ordered pizza types based on revenue for each category.
+
    
+## Author
+- Anjali (Fresher, learning SQL)
